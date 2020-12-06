@@ -8,7 +8,3 @@
 // ---Entry Point------------------------------
 #include "Hazel/EntryPoint.h"
 //---------------------------------------------
-
-//Cum Cum Cum 
-
-//CHUNGUS
